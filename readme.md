@@ -18,7 +18,11 @@ Python (Pandas) · PostgreSQL · Power BI · PowerPoint
 ## Repository structure
 
 /data → synthetic dataset generation script + cleaned CSVs
+
 /notebooks → Python cleaning notebook
+
 /sql → 6 analysis queries with business context comments
+
 /presentation → client-facing PPT (PDF version)
+
 /dashboard → dashboard screenshots (5 pages)
