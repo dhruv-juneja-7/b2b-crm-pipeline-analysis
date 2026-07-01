@@ -1,0 +1,81 @@
+opportunity_id,lead_id,product_line,region,nam_owner,client_type,deal_value_usd,closed_date,period
+OPP-P1-00021,L-P1-00056,Smart Mobility (EV/Parking),South,K. Romano,Multifamily Property,29500,17-04-2024,P1
+OPP-P1-00029,L-P1-00085,Digital Signage,South,S. Patel,Mixed-Use Development,14889,29-03-2024,P1
+OPP-P1-00042,L-P1-00133,Smart Mobility (EV/Parking),Northeast,D. Singh,Enterprise Business,26543,17-10-2024,P1
+OPP-P1-00053,L-P1-00165,Digital Signage,West,S. Patel,Municipality,9729,18-12-2024,P1
+OPP-P1-00080,L-P1-00282,Video Analytics,West,T. Chen,Municipality,21590,01-09-2024,P1
+OPP-P1-00095,L-P1-00368,Digital Signage,South,J. Sullivan,Multifamily Property,24653,13-02-2024,P1
+OPP-P1-00097,L-P1-00373,Smart Mobility (EV/Parking),South,D. Singh,Multifamily Property,19809,22-10-2024,P1
+OPP-P1-00101,L-P1-00384,Smart Buildings,Midwest,D. Singh,Multifamily Property,90509,13-05-2024,P1
+OPP-P1-00145,L-P1-00592,Digital Signage,Midwest,J. Sullivan,Multifamily Property,68626,11-02-2024,P1
+OPP-P1-00146,L-P1-00595,Video Analytics,Midwest,K. Romano,Multifamily Property,35439,11-06-2024,P1
+OPP-P1-00221,L-P1-00908,Video Analytics,West,L. Fitzgerald,Municipality,35648,13-07-2024,P1
+OPP-P1-00270,L-P1-01134,Smart Lighting,Northeast,J. Sullivan,Mixed-Use Development,36445,13-07-2024,P1
+OPP-P1-00285,L-P1-01194,Smart Buildings,Midwest,K. Romano,Enterprise Business,34674,08-09-2024,P1
+OPP-P1-00298,L-P1-01254,Smart Mobility (EV/Parking),West,L. Fitzgerald,Municipality,30875,10-02-2024,P1
+OPP-P1-00315,L-P1-01334,Smart Buildings,South,T. Chen,Mixed-Use Development,26485,05-10-2024,P1
+OPP-P1-00416,L-P1-01718,Smart Mobility (EV/Parking),South,L. Fitzgerald,Multifamily Property,8000,18-09-2024,P1
+OPP-P1-00429,L-P1-01815,Smart Buildings,Midwest,L. Fitzgerald,Municipality,13262,10-08-2024,P1
+OPP-P1-00447,L-P1-01886,Video Analytics,Northeast,D. Singh,Municipality,13935,17-02-2024,P1
+OPP-P1-00498,L-P1-02098,Smart Lighting,Northeast,R. Alvarez,Mixed-Use Development,23149,19-11-2024,P1
+OPP-P1-00537,L-P1-02234,Digital Signage,Northeast,L. Fitzgerald,Mixed-Use Development,55904,22-01-2024,P1
+OPP-P1-00599,L-P1-02500,Video Analytics,Midwest,R. Alvarez,Municipality,35669,07-12-2024,P1
+OPP-P1-00616,L-P1-02594,Video Analytics,West,R. Alvarez,Campus,19971,01-09-2024,P1
+OPP-P1-00621,L-P1-02615,Smart Lighting,Midwest,T. Chen,Multifamily Property,93278,16-08-2024,P1
+OPP-P1-00622,L-P1-02616,Digital Signage,West,S. Patel,Multifamily Property,37701,13-08-2024,P1
+OPP-P1-00623,L-P1-02631,Digital Signage,Midwest,J. Sullivan,Mixed-Use Development,40869,11-12-2024,P1
+OPP-P1-00638,L-P1-02691,Video Analytics,South,R. Alvarez,Campus,14054,02-10-2024,P1
+OPP-P1-00644,L-P1-02708,Smart Buildings,Midwest,K. Romano,Multifamily Property,20357,14-07-2024,P1
+OPP-P1-00741,L-P1-03114,Smart Buildings,Midwest,L. Fitzgerald,Mixed-Use Development,22389,09-01-2025,P1
+OPP-P1-00761,L-P1-03205,Smart Lighting,West,J. Sullivan,Multifamily Property,43458,05-01-2025,P1
+OPP-P1-00791,L-P1-03291,Smart Buildings,Midwest,K. Romano,Municipality,37685,15-01-2024,P1
+OPP-P1-00799,L-P1-03304,Smart Buildings,Midwest,M. Okafor,Mixed-Use Development,22480,07-05-2024,P1
+OPP-P2-00006,L-P2-00029,Digital Signage,West,L. Fitzgerald,Campus,32430,31-03-2025,P2
+OPP-P2-00018,L-P2-00092,Smart Mobility (EV/Parking),Northeast,K. Romano,Mixed-Use Development,78930,09-08-2025,P2
+OPP-P2-00022,L-P2-00103,Digital Signage,Northeast,L. Fitzgerald,Municipality,55354,12-07-2025,P2
+OPP-P2-00052,L-P2-00240,Smart Mobility (EV/Parking),Northeast,M. Okafor,Municipality,11658,31-01-2025,P2
+OPP-P2-00065,L-P2-00279,Video Analytics,Northeast,K. Romano,Multifamily Property,15457,05-11-2025,P2
+OPP-P2-00086,L-P2-00359,Smart Buildings,West,K. Romano,Enterprise Business,27085,21-06-2025,P2
+OPP-P2-00087,L-P2-00362,Smart Lighting,Northeast,T. Chen,Campus,21534,06-05-2025,P2
+OPP-P2-00132,L-P2-00539,Digital Signage,Northeast,D. Singh,Mixed-Use Development,19425,27-07-2025,P2
+OPP-P2-00177,L-P2-00724,Video Analytics,South,J. Sullivan,Enterprise Business,8000,11-10-2025,P2
+OPP-P2-00195,L-P2-00817,Digital Signage,Midwest,T. Chen,Municipality,50588,27-07-2025,P2
+OPP-P2-00201,L-P2-00838,Smart Lighting,West,L. Fitzgerald,Enterprise Business,25758,30-01-2025,P2
+OPP-P2-00223,L-P2-00905,Digital Signage,West,L. Fitzgerald,Campus,13052,31-05-2025,P2
+OPP-P2-00282,L-P2-01199,Digital Signage,West,T. Chen,Enterprise Business,60815,26-04-2025,P2
+OPP-P2-00285,L-P2-01208,Smart Lighting,Midwest,R. Alvarez,Multifamily Property,8512,27-05-2025,P2
+OPP-P2-00287,L-P2-01212,Smart Mobility (EV/Parking),West,M. Okafor,Multifamily Property,16212,16-06-2025,P2
+OPP-P2-00297,L-P2-01241,Digital Signage,Northeast,S. Patel,Mixed-Use Development,12439,01-04-2025,P2
+OPP-P2-00380,L-P2-01532,Video Analytics,Northeast,K. Romano,Municipality,33460,20-06-2025,P2
+OPP-P2-00386,L-P2-01548,Smart Buildings,Northeast,R. Alvarez,Campus,102595,15-08-2025,P2
+OPP-P2-00388,L-P2-01557,Video Analytics,West,S. Patel,Campus,34469,14-07-2025,P2
+OPP-P2-00420,L-P2-01678,Smart Lighting,Northeast,J. Sullivan,Campus,66443,10-10-2025,P2
+OPP-P2-00444,L-P2-01795,Video Analytics,South,S. Patel,Enterprise Business,38828,14-08-2025,P2
+OPP-P2-00455,L-P2-01839,Smart Lighting,Northeast,M. Okafor,Enterprise Business,17032,20-01-2025,P2
+OPP-P2-00476,L-P2-01932,Video Analytics,South,S. Patel,Multifamily Property,59897,12-06-2025,P2
+OPP-P2-00487,L-P2-01985,Smart Lighting,South,T. Chen,Enterprise Business,42845,12-05-2025,P2
+OPP-P2-00498,L-P2-02014,Smart Mobility (EV/Parking),Northeast,K. Romano,Mixed-Use Development,19823,18-04-2025,P2
+OPP-P2-00510,L-P2-02064,Digital Signage,West,M. Okafor,Multifamily Property,19482,17-05-2025,P2
+OPP-P2-00518,L-P2-02096,Smart Buildings,South,R. Alvarez,Campus,29177,11-04-2025,P2
+OPP-P2-00521,L-P2-02104,Digital Signage,West,R. Alvarez,Campus,42270,21-09-2025,P2
+OPP-P2-00563,L-P2-02284,Smart Mobility (EV/Parking),Northeast,M. Okafor,Mixed-Use Development,40355,16-07-2025,P2
+OPP-P2-00571,L-P2-02313,Smart Buildings,South,R. Alvarez,Enterprise Business,11277,21-07-2025,P2
+OPP-P2-00596,L-P2-02388,Video Analytics,South,M. Okafor,Municipality,17847,01-09-2025,P2
+OPP-P2-00607,L-P2-02433,Smart Mobility (EV/Parking),Northeast,S. Patel,Municipality,82192,25-05-2025,P2
+OPP-P2-00615,L-P2-02455,Video Analytics,Midwest,J. Sullivan,Municipality,24672,05-04-2025,P2
+OPP-P2-00624,L-P2-02487,Digital Signage,Midwest,D. Singh,Municipality,16120,19-09-2025,P2
+OPP-P2-00633,L-P2-02531,Video Analytics,Midwest,T. Chen,Multifamily Property,27791,02-04-2025,P2
+OPP-P2-00634,L-P2-02533,Smart Buildings,West,M. Okafor,Campus,25391,29-04-2025,P2
+OPP-P2-00649,L-P2-02594,Video Analytics,Midwest,J. Sullivan,Multifamily Property,10268,07-06-2025,P2
+OPP-P2-00652,L-P2-02601,Smart Buildings,Northeast,S. Patel,Enterprise Business,23706,06-10-2025,P2
+OPP-P2-00674,L-P2-02677,Video Analytics,Midwest,K. Romano,Campus,14344,02-02-2025,P2
+OPP-P2-00691,L-P2-02758,Smart Lighting,South,L. Fitzgerald,Enterprise Business,31240,29-03-2025,P2
+OPP-P2-00720,L-P2-02882,Digital Signage,Northeast,K. Romano,Municipality,49680,14-09-2025,P2
+OPP-P2-00730,L-P2-02937,Digital Signage,Midwest,S. Patel,Multifamily Property,54601,05-06-2025,P2
+OPP-P2-00732,L-P2-02952,Video Analytics,Northeast,R. Alvarez,Enterprise Business,16869,17-07-2025,P2
+OPP-P2-00765,L-P2-03106,Digital Signage,Midwest,R. Alvarez,Municipality,34290,09-07-2025,P2
+OPP-P2-00766,L-P2-03107,Digital Signage,West,D. Singh,Multifamily Property,18848,26-02-2025,P2
+OPP-P2-00783,L-P2-03195,Smart Lighting,South,K. Romano,Municipality,47887,11-02-2025,P2
+OPP-P2-00788,L-P2-03215,Digital Signage,Midwest,S. Patel,Municipality,28777,08-09-2025,P2
+OPP-P2-00822,L-P2-03384,Digital Signage,South,R. Alvarez,Campus,22946,27-04-2025,P2
+OPP-P2-00834,L-P2-03421,Smart Buildings,South,R. Alvarez,Campus,21451,09-06-2025,P2
